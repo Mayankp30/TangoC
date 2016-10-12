@@ -49,12 +49,12 @@ var array = [5,7,11,2,3,-4,10];
 var arrayTwo = [3,10,20,8,5,2,10,11,31,13,11,22,4];
 
 // tests
-console.log("Test Case 1 for findDiff1",findDiff1(array) === 15);
-console.log("Test Case 2 for findDiff1",findDiff1(arrayTwo) === 29);
+console.log("findDiff1: ",findDiff1(array));
+console.log("findDiff1: ",findDiff1(arrayTwo));
 
 
-console.log("Test Case 1 for findDiff2",findDiff2(array) === 15);
-console.log("Test Case 2 for findDiff2",findDiff2(arrayTwo) === 29);
+console.log("findDiff2: ",findDiff2(array));
+console.log("findDiff2: ",findDiff2(arrayTwo));
 
 
 
