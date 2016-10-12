@@ -1,7 +1,3 @@
-
-
-
-
 /**
  * function checkForIntersection - takes two rectangles rect 1 and rect 2
  * returns true if they intersect else false otherwise. 
